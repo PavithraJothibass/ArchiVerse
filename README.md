@@ -1,6 +1,3 @@
-Here’s a **README** template for your **ArchiVerse** website project:
-
-```markdown
 # ArchiVerse - Architecture & Design
 
 ArchiVerse is a platform that blends innovative architecture with cutting-edge design technology to create unique, functional, and visually stunning spaces. This website showcases various architectural projects, services, and design solutions, helping users explore modern trends in architecture and design.
@@ -14,8 +11,10 @@ ArchiVerse is a platform that blends innovative architecture with cutting-edge d
   
 ## Tech Stack
 
-- **Frontend**: HTML5, CSS3
-- **Styling**: Bootstrap (for responsive design and modern layouts)
+- **Frontend**: HTML5, CSS3, JavaScript, React (for dynamic UI)
+- **Styling**: TailwindCSS (for responsive and modern design)
+- **Backend**: Node.js, Express (if applicable for API integrations or form submissions)
+- **Database**: MongoDB (if applicable for storing client or project data)
 
 ## Installation
 
