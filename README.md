@@ -39,8 +39,6 @@ ArchiVerse is a platform that blends innovative architecture with cutting-edge d
    npm start
    ```
 
-   This will launch the website on `http://localhost:3000`.
-
 ## Usage
 
 - Explore the **portfolio** to view various architectural designs and projects.
